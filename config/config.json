@@ -1,0 +1,17 @@
+{
+  "time_to_repeat": 15,
+  "url_from_parce":"https://confluence.hflabs.ru/rest/api/content/1181220999?expand=body.storage",
+  "document_id":"1ceHYcsZc3RGTz0X5zXY2vDdWeQXR3wiLWDhdPcD50XI",
+  "service_auth":{
+     "type":"service_account",
+     "project_id":"goparcer",
+     "private_key_id":"995b1e7e5b99a96f814c92df32b01af8207cd96c",
+     "private_key":"-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDsdWXbaIgbxxUF\nW4xjeG068NxMcPbjUhsdl6q23+QyX3xMxBOJ5ZbDyG9nqmrku0fVt3Ax557nTMjl\nM4aWk0WAHZ/d9F5kFxI4+uuqwIChtFPN7UodAyEDHHkxpLv/5JyWW9Di8+KFvl9U\nG6did6FJMRWnzd6+JM+odmsOCmJycyLNwlx7GImYmGOrVwajFaXQcBZPcIgE6gaO\nNkH5HLyHK6NY32oEtEESpAfdFHQqbq0sF0iKlMxQa3IAivxO/cysNGtA3q1n1YFc\n0koFxh3EGJLuPGUAGogFwHOSd4dZA5vFBQUAuYLm0454sx8xm5+P7drIS4tJNlys\nhRiUn/evAgMBAAECggEAYsvoa4Sg/e4v98WZAkSiavKRMTUvyqoXH0Wr8+3XJD7m\nKhLw0PiHBjV8arV3JSuk54RWEdvjdmQMOkvNi6Nr8gwurCe6upozKHCawATfmfDE\n5TEkervActLWRmo8jL4BuQcS34ikGFqC7RsC1G8EihbCpBKt4wdxZkNYFo07NfLc\nsBWVZgK/lAWUuu0yUhMOxOTglKpV1JIIK7H1ElTNEPDowZEe+SS9tgCHvJSwpy5Y\nrYFzbkLT1mNIL4+NBD7dduBAJ6vwq/DBCUjqgEVo74/oA/ALzvPgqjNqK+JTJFnB\nWhMSXeMbuAcIfauyIipOLx2fx9QRem1jT0lsGH+3pQKBgQD63iSlrWPSHZEKLDsp\nOIOLyhAGSIGbR7e5XVz9OhQeSKtD2w+HqHMlrgsl1BlT8VljnsPw3Ozg4hrSbYVl\n5n9fQzNlReochnqBL0vM4vtxQu+1D7SjqtVuUPYPjkMrBnfTNK05OW2lcq40lthZ\nKmPzUY5uC2XJbgJD15NFKUfkVQKBgQDxS8pVH7lBPaQ1xhZhH3wsyfN4Fz+HC7ho\nEmSdCl6Qlm3rvJBd0j8bkErW8jKy8+B9bTN444lk5XGkuPB2cOi6iGVjwHnpp7qM\nTjXEPP5CiJDHzpbwvyorXtgaLMi4YqyQX3/nZ8EMsD05RCc9vAwPnFF+47Tt1Yxw\nQfiO6jxP8wKBgQDaIbhp2vdV5uGLn+QdNoejUCJY5EjV1SlaY2UMxqhhoLxSdzLs\nuTrOQ6Rr0x3m0I/yQEWNtPu/mrrJx/NbJG4STiNtZrpm7UOt+osFb0RFOnelzy85\ntLx6fKlH42JiEfC01DPe8yF039+72IHsHiDknEClTQHHgQE1LkhetcNONQKBgQCi\nHzsdwIfXBtSK8MHelan36eR0vqIHWV+YRStmvC3XVcsbBYG2F+og2ez+yJI53FPr\n0fAwfCi3KtYVR9EAs1Ia6kO9JviCfhh/5piHdjebemhUZ0DRFo/9vebSh16BTIMH\nKbMlRnfVz6ADFwCKoQs1feDfsZzB46ZNUnXvh//n8wKBgBdPTulvdIDtpHjXNGcX\nYzEXgChr8/EIn8vOutMWczVOA5ydwlmyhEfUWVwC2CtItFSMgWjt0J4+EpkxRlmM\nm/HZ9cAGb98l0IXSVLE5lHdV6wGadR0MBHOa4Ht0T88BIA5XWBTuDqPqh3Llv2XM\n5toS2Vx2Ahz5jLqTRFkqtOZt\n-----END PRIVATE KEY-----\n",
+     "client_email":"goparcerfromcompany@goparcer.iam.gserviceaccount.com",
+     "client_id":"100292686789345811039",
+     "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+     "token_uri":"https://oauth2.googleapis.com/token",
+     "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+     "client_x509_cert_url":"https://www.googleapis.com/robot/v1/metadata/x509/goparcerfromcompany%40goparcer.iam.gserviceaccount.com"
+  }
+}

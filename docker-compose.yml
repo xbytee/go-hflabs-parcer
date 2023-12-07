@@ -1,0 +1,15 @@
+version: '3'
+
+networks:
+  in.net.ex:
+    driver: bridge # Standard tunnel-type network driver
+
+
+services:
+  status-parcer:
+    build: .
+    container_name: status-parcer.in.net.ex
+    volumes:
+      - ./config/config.json:/config.json:ro # Only read
+    networks:
+      - in.net.ex
