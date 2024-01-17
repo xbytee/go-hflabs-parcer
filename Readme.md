@@ -62,4 +62,4 @@
   
 ## Разработчики
 
-- [OneByteForLife](https://github.com/OneByteForLife)
+- [xByte](https://github.com/xbytee)
